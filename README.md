@@ -3,6 +3,7 @@
 ## Overview
 
 Welcome to the Dice Game! This game is a simple yet engaging Flutter app where players compete against the computer by rolling dice and wagering tokens. The rules are straightforward, and the gameplay is quick and fun. This README will guide you through the game's rules, how to navigate the app, and how to enjoy the game to its fullest.
+![image](https://github.com/user-attachments/assets/d69b8bb9-7c47-4ac5-993b-d64147d84bef)
 
 ## Game Rules
 
